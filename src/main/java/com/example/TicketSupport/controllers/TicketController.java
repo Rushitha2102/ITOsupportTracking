@@ -1,4 +1,4 @@
 package com.example.TicketSupport.controllers;
 
-public class UserController {
+public class TicketController {
 }

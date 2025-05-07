@@ -1,4 +1,4 @@
 package com.example.TicketSupport.exceptionHandling;
 
-public class UserNotFoundException {
+public class ResourceNotFoundException {
 }

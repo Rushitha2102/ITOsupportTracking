@@ -1,4 +1,4 @@
 package com.example.TicketSupport.services;
 
-public class ITteamServiceImpl {
+public interface TicketService {
 }

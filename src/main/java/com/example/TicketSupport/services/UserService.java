@@ -1,4 +1,4 @@
 package com.example.TicketSupport.services;
 
-public class UserServiceImpl {
+public interface UserService {
 }
